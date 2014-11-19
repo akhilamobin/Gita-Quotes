@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gita Quotes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="desc">Om symbol</string>
+    <string name="title_text">Hari Sri Ganapataye Namah:</string>
+    <string name="button_text">Click Me</string>
+
+</resources>
